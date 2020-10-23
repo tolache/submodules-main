@@ -1,0 +1,3 @@
+[submodule "submodules-sub"]
+	path = submodules-sub
+	url = git@github.com:tolache/submodules-sub.git
